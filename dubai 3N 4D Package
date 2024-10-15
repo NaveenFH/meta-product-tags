@@ -1,5 +1,5 @@
 <!-- Meta Title -->
-<title> Dashing Dubai | 3 Nights 4 Days Tour | Fits Holidays</title>
+<title> Dashing Dubai | 3 Nights 4 Days Dubai Tour | Fits Holidays</title>
 
 <!-- Meta Description -->
 <meta name="description" content="Enjoy a 3-night Dubai Shopping Spree with Fits Holidays! Explore luxury malls and souks while experiencing the best of Dubai. Book your adventure today!">
@@ -14,16 +14,18 @@
 
 <!-- Keywords -->
 <meta name="keywords" content="Dubai shopping, Dubai holiday packages, 3 nights Dubai tour, Dubai shopping deals, Fits Holidays">
-  
+
+<!-- Schema Markup -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "TouristTrip",
-  "name": "Dashing Dubai",
+  "name": "Dashing Dubai Shopping Spree Tour - 3 Nights & 4 Days",
   "description": "A 3 nights, 4 days shopping experience in Dubai, with customizable shopping destinations for every traveler.",
-  "touristType": "Shopper",
+  "touristType": "Tourist",
   "offers": {
     "url": "https://fitsholidays.com/dubai-shopping-spree"
   }
 }
 </script>
+
