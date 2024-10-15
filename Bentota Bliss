@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<meta name="title" content="Bentota | 3 Nights 4 Days | Sri Lanka's Coastal Paradise">
+
+<!-- Meta Description -->
+<meta name="description" content="Escape to paradise with 3 Nights 4 Days in  Bentota! Relax on stunning beaches, enjoy water sports, and soak up the sun. Book your dream beach holiday now!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Bentota | 3 Nights 4 Days | Sri Lanka's Coastal Paradise">
+<meta property="og:description" content="Unwind in Bentota with our 3 Nights 4 Days Bliss package! Enjoy pristine beaches, exciting water sports, and the perfect mix of relaxation and adventure.">
+<meta property="og:image" content="https://yourwebsite.com/images/bentota-bliss.jpg">
+<meta property="og:url" content="https://yourwebsite.com/bentota-bliss">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Bentota Bliss | 3 Nights 4 Days | Sri Lanka's Coastal Paradisee",
+  "description": "A 3 nights, 4 days beach retreat in Bentota, perfect for relaxing and enjoying the coastline.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/bentota-bliss"
+  }
+}
+</script>
