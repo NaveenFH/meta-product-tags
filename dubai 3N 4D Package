@@ -1,0 +1,29 @@
+<!-- Meta Title -->
+<title> Dashing Dubai | 3 Nights 4 Days Tour | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Enjoy a 3-night Dubai Shopping Spree with Fits Holidays! Explore luxury malls and souks while experiencing the best of Dubai. Book your adventure today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Dubai Shopping Spree | 3 Nights 4 Days | Fits Holidays">
+<meta property="og:description" content="Enjoy a 3-night Dubai Shopping Spree with Fits Holidays! Explore luxury malls and souks while experiencing the best of Dubai. Book your adventure today!">
+<meta property="og:image" content="https://yourwebsite.com/images/dubai-shopping-spree.jpg">
+<meta property="og:url" content="https://yourwebsite.com/dubai-shopping-spree">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Keywords -->
+<meta name="keywords" content="Dubai shopping, Dubai holiday packages, 3 nights Dubai tour, Dubai shopping deals, Fits Holidays">
+  
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Dashing Dubai",
+  "description": "A 3 nights, 4 days shopping experience in Dubai, with customizable shopping destinations for every traveler.",
+  "touristType": "Shopper",
+  "offers": {
+    "url": "https://fitsholidays.com/dubai-shopping-spree"
+  }
+}
+</script>
