@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<meta name="title" content="Colombo | 2 Nights 3 Days Tour | Sri Lanka's Vibrant Capital">
+
+<!-- Meta Description -->
+<meta name="description" content="Ready for an adventure? 2 Nights 3 Days In Colombo!  Bustling markets, cool cultural spots and more. Your urban escape in Sri Lanka is just a click away!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Colombo | 2 Nights 3 Days Tour | Sri Lanka's Vibrant Capital">
+<meta property="og:description" content="Explore the vibrant life of Sri Lanka’s capital with our 2 Nights 3 Days Colombo Getaway! Enjoy bustling markets and stunning coastal views.">
+<meta property="og:image" content="https://yourwebsite.com/images/colombo-getaway.jpg">
+<meta property="og:url" content="https://yourwebsite.com/colombo-getaway">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Colombo Getaway Tour Package - 2 Nights & 3 Days",
+  "description": "A 2 nights, 3 days urban exploration in Colombo, covering key attractions and city experiences.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/colombo-getaway"
+  }
+}
+</script>
