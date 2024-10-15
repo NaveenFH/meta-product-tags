@@ -1,0 +1,28 @@
+<!-- Title Tag -->
+<meta name="title" content="Kandyan Delights | 3 Nights 4 Days Kandy Tour | Explore Sri Lanka’s Cultural Gem">
+
+<!-- Meta Description -->
+<meta name="description" content="Uncover the magic of Kandy with our 3 Nights 4 Days Kandyan Delights tour! Immerse yourself in ancient temples, vibrant culture, and stunning landscapes. Your serene Sri Lankan adventure awaits!!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Kandyan Delights | 3 Nights 4 Days Kandy Tour | Explore Sri Lanka’s Cultural Gem">
+<meta property="og:description" content="Enjoy 3 Nights and 4 Days in Kandy, Sri Lanka, with Fits Holidays! Explore cultural wonders, visit ancient temples, and enjoy the serene landscapes of Kandy.">
+<meta property="og:image" content="https://yourwebsite.com/images/kandyan-delights.jpg">
+<meta property="og:url" content="https://yourwebsite.com/kandyan-delights">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Kandyan Delights",
+  "description": "A 3 nights, 4 days cultural journey to Kandy, exploring heritage sites and cultural highlights.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/kandyan-delights"
+  }
+}
+</script>
+
+
