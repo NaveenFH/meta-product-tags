@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Tropical Tour | 5 Days In Maldives | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Experience the best of Maldives in 5 Days. Bask in the tropical paradise, relax on white-sand beaches, and explore marine life. Book your dream vacation today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Tropical Tour | 5 Days In Maldives | Fits Holidays">
+<meta property="og:description" content="5-day Tour in Maldives. Stunning beaches, crystal-clear waters, and endless relaxation is on the list.">
+<meta property="og:image" content="https://yourwebsite.com/images/tropical-paradise-maldives.jpg">
+<meta property="og:url" content="https://yourwebsite.com/tropical-paradise-maldives">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Tropical Paradise Maldives | 5 Days Island Getaway",
+  "description": "A 5-day island escape to the Maldives, featuring pristine beaches and an unforgettable tropical paradise experience.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/tropical-paradise-maldives"
+  }
+}
+</script>
