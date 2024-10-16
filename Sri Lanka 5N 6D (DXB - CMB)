@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Sri Lanka Tour | 6 Days of Culture & Heritage | Exclusive Tour</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Immerse in Sri Lanka’s rich culture and heritage. Explore mountains and ancient landmarks with exclusive offers. Book now!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Experience Sri Lanka | 6 Days Culture & Heritage Tour">
+<meta property="og:description" content="Discover the cultural richness of Sri Lanka, explore mountain escapes, historic landmarks, and enjoy exclusive benefits.">
+<meta property="og:image" content="https://yourwebsite.com/images/experience-sri-lanka.jpg">
+<meta property="og:url" content="https://yourwebsite.com/experience-sri-lanka">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Experience Sri Lanka | 6 Days Culture & Heritage Tour",
+  "description": "A 6-day culture and heritage tour through Sri Lanka’s historical landmarks and mountain escapes. Discover the best of Sri Lankan heritage with exclusive packages.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/experience-sri-lanka"
+  }
+}
+</script>
