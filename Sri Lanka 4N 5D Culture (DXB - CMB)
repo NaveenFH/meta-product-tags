@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Wonderful Sri Lanka | 5 Days Family Cultural & Historical Tour </title>
+
+<!-- Meta Description -->
+<meta name="description" content="Experience the best of Sri Lanka’s culture and history. Explore historical landmarks and enjoy exclusive packages for the whole family. Book today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Wonderful Sri Lanka | 5 Days Family Cultural & Historical Exploration">
+<meta property="og:description" content="Discover Sri Lanka’s rich cultural heritage with our 5-day family tour. Visit historic landmarks, explore cultural treasures, and take advantage of special offers and exclusive packages.">
+<meta property="og:image" content="https://yourwebsite.com/images/wonderful-sri-lanka.jpg">
+<meta property="og:url" content="https://yourwebsite.com/wonderful-sri-lanka">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Wonderful Sri Lanka | 5 Days Family Cultural & Historical Exploration",
+  "description": "A 5-day cultural and historical exploration of Sri Lanka, designed for families. Discover the island's heritage with exclusive packages and special offers.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/wonderful-sri-lanka"
+  }
+}
+</script>
