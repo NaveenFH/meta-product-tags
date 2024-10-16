@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Maldives Tour | 4 Days Romantic Island Getaway | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content="A 4-day romantic trip to the Maldives, where every sunset paints the sky, beaches with crystal clear waters, and an unforgettable island retreat. Book Today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Maldives Tour | 4 Days Romantic Island Getaway | Fits Holidays">
+<meta property="og:description" content="4-day romantic trip to the Maldives">
+<meta property="og:image" content="https://yourwebsite.com/images/maldives-getaway.jpg">
+<meta property="og:url" content="https://yourwebsite.com/maldives-sunset-getaway">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Maldives Tour | 4 Days Romantic Island Getaway | Fits Holidays",
+  "description": "A 4-day romantic hideaway in the Maldives, perfect for couples seeking relaxation and breathtaking sunsets.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/maldives-sunset-getaway"
+  }
+}
+</script>
