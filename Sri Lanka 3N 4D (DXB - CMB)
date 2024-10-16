@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Sri Lanka Tour| 4 Days  of Heritage and Landscape | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content=Escape to the heart of Sri Lanka's culture and natural beauty. Explore culture, mountains and heritage sites. Book your special offer today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Sri Lanka Tour| 4 Days  of Heritage and Landscape | Fits Holidays">
+<meta property="og:description" content="Discover Sri Lanka's cultural heritage and breathtaking mountains with our 4-day tour. Take advantage of exclusive offers.">
+<meta property="og:image" content="https://yourwebsite.com/images/sri-lankan-getaway.jpg">
+<meta property="og:url" content="https://yourwebsite.com/sri-lankan-getaway">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Sri Lanka Tour| 4 Days  of Heritage and Landscape | Fits Holidays",
+  "description": "A 4-day cultural and mountain exploration in Sri Lanka, offering an immersive experience of the island's heritage and landscapes. Take advantage of special offers.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/sri-lankan-getaway"
+  }
+}
+</script>
