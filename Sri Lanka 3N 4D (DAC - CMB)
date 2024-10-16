@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Sri Lankan Bliss | 4 Days Leisure Weekend Getaway | Special Offers</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Indulge in a 4-day leisure weekend tour. Relax, unwind, and experience the serenity of Sri Lanka’s stunning landscapes. Book now!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Sri Lankan Bliss | 4 Days Leisure Weekend Getaway | Special Offers">
+<meta property="og:description" content="Escape to Sri Lanka for 4-days . Perfect for unwinding and enjoying a peaceful retreat. Exclusive packages available now!">
+<meta property="og:image" content="https://yourwebsite.com/images/sri-lankan-bliss.jpg">
+<meta property="og:url" content="https://yourwebsite.com/sri-lankan-bliss">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Sri Lankan Bliss | 4 Days Leisure Weekend Getaway | Special Offers",
+  "description": "A 4-day leisure weekend getaway in Sri Lanka for those looking to unwind and relax amidst stunning landscapes. Perfect for a quick escape.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/sri-lankan-bliss"
+  }
+}
+</script>
