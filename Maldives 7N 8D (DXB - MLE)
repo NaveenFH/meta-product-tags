@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Maldives Honeymoon Tour | 8 Days 7 Nights | Romantic Getaway</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Discover the Maldives with our 8-day romantic getaway. Unwind on stunning beaches, explore the crystal-clear waters, and enjoy pure relaxation. Book Today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Maldives Honeymoon Tour | 8 Days 7 Nights | Romantic Getaway">
+<meta property="og:description" content="Get The Best Out Of Your Honeymoon In The Maldives">
+<meta property="og:image" content="https://yourwebsite.com/images/maldives-bliss.jpg">
+<meta property="og:url" content="https://yourwebsite.com/maldives-find-your-bliss">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Maldives Honeymoon Tour | 8 Days 7 Nights | Romantic Getaway",
+  "description": "An 8-day romantic honeymoon tour in the Maldives, offering pristine beaches and tranquil island bliss for couples.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/maldives-find-your-bliss"
+  }
+}
+</script>
