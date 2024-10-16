@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Exotic Sri Lanka | 5 Days Family Tour | Explore Mountains</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Roam the exotic landscapes of Sri Lanka with our 5-day package. Enjoy breathtaking views and unforgettable adventures. Book your exclusive package today!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Exotic Sri Lanka | 5 Days Family Tour">
+<meta property="og:description" content="Discover Sri Lanka’s stunning mountains and vibrant culture. A perfect getaway for relaxation and adventure.">
+<meta property="og:image" content="https://yourwebsite.com/images/exotic-sri-lanka.jpg">
+<meta property="og:url" content="https://yourwebsite.com/exotic-sri-lanka">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Exotic Sri Lanka | 5 Days Family Tour | Explore Mountains",
+  "description": "A 5-day family mountain escape to Sri Lanka for travelers, featuring scenic views and enriching cultural experiences.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/exotic-sri-lanka"
+  }
+}
+</script>
