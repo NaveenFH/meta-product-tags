@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Urban Sri Lanka Tour| 6 Nights 7 Days | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content="The best of Sri Lanka - 6 Nights 7 Days Tour. Explore vibrant cities, cultural landmarks, and scenic landscapes. Book your adventure with Fits Holidays!">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content=">Urban Sri Lanka Tour| 6 Nights 7 Days | Fits Holidays">
+<meta property="og:description" content="The best of Sri Lanka with In 6 Nights! Discover vibrant cities, iconic landmarks, and stunning landscapes. Book now with Fits Holidays!">
+<meta property="og:image" content="https://yourwebsite.com/images/sri-lankan-getaway.jpg">
+<meta property="og:url" content="https://yourwebsite.com/sri-lankan-getaway">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Urban Sri Lanka Tour| 6 Nights 7 Days | Fits Holidays",
+  "description": "A 6-day journey through Sri Lanka’s urban culture and cityscape, offering a blend of leisure, adventure, and shoppping.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/Urban_Sri_Lanka"
+  }
+}
+</script>
