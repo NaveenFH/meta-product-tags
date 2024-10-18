@@ -1,0 +1,27 @@
+<!-- Title Tag -->
+<title>Urban Escape | 3 Nights 4 Days In Sri Lanka | Fits Holidays</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Urban tour of Sri Lanka - 3 Nights 4 Days! Discover stunning landscapes, rich cultural heritage, and unforgettable experiences. Book now with Fits Holidays.">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Urban Escape | 3 Nights 4 Days In Sri Lanka | Fits Holidays">
+<meta property="og:description" content="Sri Lankan urban tour, explore ancient architecture and indulge in rich tradition. Book Today">
+<meta property="og:image" content="https://yourwebsite.com/images/wonderful-sri-lanka.jpg">
+<meta property="og:url" content="https://yourwebsite.com/wonderful-sri-lanka">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Urban Escape | 3 Nights 4 Days In Sri Lanka | Fits Holidays",
+  "description": "A 4-day  adventure through Sri Lanka’s urban regions, combining leisure, history, and unforgettable experiences in one amazing trip.",
+  "touristType": "Tourist",
+  "offers": {
+    "url": "https://fitsholidays.com/wonderful-sri-lanka"
+  }
+}
+</script>
